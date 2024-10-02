@@ -1,5 +1,5 @@
 # AboutMe
-I am a self-driven Computer Science Student at Quinnipiac University. I am in my third year there and will be graduating in the spring of 2026, until then, I am pursing internship possibilities in the field. I have a genuine passion for my study, with a soft spot for software engineering and database management.
+My name is Connor Ryan, I am a Computer Science Student at Quinnipiac University. In the Spring of 2026 I will be graduating and I am pursing internship possibilities in the field.
 
 # Programming Languages
 - Java
