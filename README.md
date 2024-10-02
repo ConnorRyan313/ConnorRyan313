@@ -1,16 +1,13 @@
-## Hi there 👋
+# AboutMe
+I am a self-driven Computer Science Student at Quinnipiac University. I am in my third year there and will be graduating in the spring of 2026, until then, I am pursing internship possibilities in the field. I have a genuine passion for my study, with a soft spot for software engineering and database management.
 
-<!--
-**ConnorRyan313/ConnorRyan313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+Programming Languages
+- Java
+- JavaScript
+- C
+- Scala
+- SQL
+Other
+- Scrum
+- Agile Methodologies
